@@ -187,7 +187,7 @@ MonoBehaviour:
   interCascadeBorders: 1
   maxShadowDistance:
     m_OverrideState: 1
-    m_Value: 600.8
+    m_Value: 1000
   directionalTransmissionMultiplier:
     m_OverrideState: 1
     m_Value: 1
@@ -415,7 +415,7 @@ MonoBehaviour:
     m_Value: 1
   distanceScaleFactor:
     m_OverrideState: 1
-    m_Value: 0.036
+    m_Value: 1
   maxDistance:
     m_OverrideState: 0
     m_Value: 50
